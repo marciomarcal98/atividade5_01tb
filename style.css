@@ -1,0 +1,16 @@
+* { /* seletor global => todos os elementos, um por um */
+    font-family: 'Lucida Sans', sans-serif; /* mudar a fonte da página */
+}
+
+body {
+    background-color: #1e293b;
+
+    /* herança (herança genética) */
+    color: #e2e8f0;
+}
+
+h1, h2, h3 { /* seletor múltiplo, ou seja, vários elementos ao mesmo tempo */
+    color: #10b981;
+}
+
+/*  */
